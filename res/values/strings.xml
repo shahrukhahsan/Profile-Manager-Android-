@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">ProfileManagerActivity!</string>
+    <string name="app_name">ProfileManager</string>
+	<string name="start">Start</string>
+	<string name="stop">Stop</string>
+	<string name="proximity">Proximity</string>
+	<string name="acce">Accelerometer</string>
+	<string name="mode">Mode</string>
+	<string name="no"></string>
+</resources>
